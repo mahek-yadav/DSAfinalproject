@@ -80,12 +80,12 @@ Used for fast supplier lookup.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Smart-Manufacturing-Supply-Dependency-Analyzer/
 │
-├── main.cpp
+├── dependencyAnalyzer.cpp
 ├── README.md
 
 ```
